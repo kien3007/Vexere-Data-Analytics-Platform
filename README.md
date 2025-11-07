@@ -31,7 +31,7 @@
 
 ## 3. 💡 System Design
 
-<img width="945" height="341" alt="459199361-973d86f1-8ece-4cae-b656-00883947f25c" src="https://github.com/user-attachments/assets/01e5d745-54c3-494a-8e6f-82ab52e47eb0" />
+![gen-h-z7197672617536_898a09ed853285556c85b343b8c1e663](https://github.com/user-attachments/assets/b4e15dd3-6879-423f-b9be-a5372f411983)
 
 
 - The system is designed through 4 main items:
