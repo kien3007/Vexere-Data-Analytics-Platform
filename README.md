@@ -13,7 +13,7 @@
 - Divided into 2 main data sets: CSV for bus tickets, JSON for utilities and comments.
 - Sample ticket data:
 
-  ![image](https://github.com/user-attachments/assets/e15d7176-66a4-470d-9580-09287b1c5351) ![image](https://github.com/user-attachments/assets/cafed35a-73a4-4427-a0b2-564415fb6a64)
+ <img width="1336" height="528" alt="image" src="https://github.com/user-attachments/assets/03e70c4b-4e2a-4e65-b118-17e954199c80" /> <img width="883" height="542" alt="image" src="https://github.com/user-attachments/assets/78fb6b32-4ca4-46a9-bcc8-d8c68dc854da" />
 
   
 - Sample data about ride facility:
