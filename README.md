@@ -23,7 +23,8 @@
   
 - Sample data on customer comments:
 
-  ![image](https://github.com/user-attachments/assets/43902afe-a166-4fa7-84c7-493b1ea5b72a)
+ <img width="1200" height="297" alt="image" src="https://github.com/user-attachments/assets/2cdf80d7-4fe2-406f-8a33-e27b66eefbce" />
+
 
 
 
