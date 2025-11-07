@@ -18,7 +18,8 @@
   
 - Sample data about ride facility:
 
-  ![image](https://github.com/user-attachments/assets/76e1a1cb-df34-4597-920c-74b652e7cbc4)
+ <img width="1292" height="500" alt="image" src="https://github.com/user-attachments/assets/a38caee7-36ed-42f0-afb8-580e6cbdaeab" />
+
 
   
 - Sample data on customer comments:
