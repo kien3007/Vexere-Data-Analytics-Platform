@@ -37,8 +37,8 @@
 - The system is designed through 4 main items:
 - First is the source data scraped from the website, then diversify the input data by deploying to save into 2 file formats: CSV and JSON
 - Next is the storage layer that will use MinIO to store 3 data layers along with storing raw data on Ubuntu Server.
-- The 3 data layers will be designed according to: bronze, silver, gold. In which, the bronze layer has the role of storing raw data, the silver layer has the role of storing pre-processed data as well as staging for the process into the gold layer. Finally, the gold layer is where the data model is designed according to the rules of the Data Warehouse (Galaxy Schema model). And all data in these 3 layers will be unified into 1 form through Delta Lake.
-- Next, the model will apply NLP (natural language processing) to evaluate and analyze comment sentiment. Along with using Trino as a high performance query engine to MinIO via Iceberg Catalog.
+- The 3 data layers will be designed according to: bronze, silver, gold. In which, the bronze layer has the role of storing raw data, the silver layer has the role of storing pre-processed data as well as staging for the process into the gold layer. Finally, the gold layer is where the data model is designed according to the rules of the Data Warehouse (Galaxy Schema model). And all data in these 3 layers will be unified into 1 form through Iceberg Catalog.
+- Next, the model will apply NLP (natural language processing) to evaluate and analyze comment sentiment. Along with using Trino as a high performance query engine to MinIO.
 - Finally visualized via Metabase.
 
 ## 4. 🏛️ Warehouse Model Design
