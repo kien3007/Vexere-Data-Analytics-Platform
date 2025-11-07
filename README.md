@@ -31,7 +31,8 @@
 
 ## 3. 💡 System Design
 
-![image](https://github.com/user-attachments/assets/973d86f1-8ece-4cae-b656-00883947f25c)
+<img width="945" height="341" alt="459199361-973d86f1-8ece-4cae-b656-00883947f25c" src="https://github.com/user-attachments/assets/01e5d745-54c3-494a-8e6f-82ab52e47eb0" />
+
 
 - The system is designed through 4 main items:
 - First is the source data scraped from the website, then diversify the input data by deploying to save into 2 file formats: CSV and JSON
