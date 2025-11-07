@@ -1,34 +1,35 @@
 # Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.egg-info/
 
-# Virtual env
-venv/
+# Env / secrets
 .env
+.env.* 
+venv/
 
 # Airflow
 airflow/logs/
 airflow/airflow.db
 airflow/webserver_config.py
 
-# Local data
+# Raw & cache
 data/
-C:\KLTN2\data\raw/
+raw/
+cache/
+.cache/
+cache/huggingface/
 
-# HuggingFace cache
-.cache/huggingface/
-
-# MinIO volumes
+# Docker volumes (tuỳ dự án có/không)
 minio-data/
-
-# Trino storage
+metabase-data/
+postgres-db-volume/
 trino/data/
-
-# Docker volumes
 volumes/
-*.log
 
-# IDE
-.vscode/
-.idea/
+# OS / IDE
 .DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
