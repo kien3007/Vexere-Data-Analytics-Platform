@@ -20,7 +20,7 @@ cache/
 .cache/
 cache/huggingface/
 
-# Docker volumes (tuỳ dự án có/không)
+# Docker volumes
 minio-data/
 metabase-data/
 postgres-db-volume/
